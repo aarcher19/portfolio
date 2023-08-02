@@ -18,6 +18,9 @@ The Caesar Cipher is a JavaScript implementation of the famous encryption techni
 [Calculator](https://github.com/aarcher19/calculator)
 This is a basic calculator application implemented using HTML, CSS, and JavaScript. It provides standard calculator functionality, including addition, subtraction, multiplication, and division.
 
+[Apple Clone](https://github.com/aarcher19/Apple-Clone)
+This HTML and CSS code represents a Supplement Facts label for a product. The label provides information about the serving size, nutritional content, and ingredients of the supplement. The design uses simple HTML elements and CSS styles to create a professional-looking label.
+
 ## About Me
 
 I am a passionate and dedicated software developer with a strong interest in full-stack web development. Through my projects, I aim to explore various technologies and coding concepts while continuously improving my skills.
