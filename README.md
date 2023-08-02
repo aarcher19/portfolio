@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository serves as a central hub to showcase my 
 This is a simple JavaScript application that validates phone numbers using regular expressions. It checks if the provided input is a valid US phone number and returns true or false accordingly.
 
 [Roman Numeral Converter](https://github.com/aarcher19/Roman-Numeral-Converter)
-This JavaScript project converts Roman numerals to decimal numbers and vice versa. It provides functions to convert Roman numerals to decimals and decimals to Roman numerals.
+This JavaScript project converts Roman numerals to decimal numbers.
 
 [Palindrome Verify](https://github.com/aarcher19/Palindrome-Verify)
 This JavaScript project checks whether a given string is a palindrome or not. It disregards non-alphanumeric characters and ignores case sensitivity during the verification.
