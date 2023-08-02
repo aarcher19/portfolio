@@ -1,7 +1,7 @@
 # My portfolio
 Welcome to my portfolio! This repository serves as a central hub to showcase my various coding projects and accomplishments. Below, you'll find a list of my projects, each with a brief description and a link to its dedicated repository.
 
-Projects
+## Projects
 
 [Phone Number Validator](https://github.com/aarcher19/Phone-Number-Validator)
 This is a simple JavaScript application that validates phone numbers using regular expressions. It checks if the provided input is a valid US phone number and returns true or false accordingly.
@@ -18,15 +18,15 @@ The Caesar Cipher is a JavaScript implementation of the famous encryption techni
 [Calculator](https://github.com/aarcher19/calculator)
 This is a basic calculator application implemented using HTML, CSS, and JavaScript. It provides standard calculator functionality, including addition, subtraction, multiplication, and division.
 
-About Me
+## About Me
 
 I am a passionate and dedicated software developer with a strong interest in full-stack web development. Through my projects, I aim to explore various technologies and coding concepts while continuously improving my skills.
 
-Contact
+## Contact
 
 If you have any questions or would like to discuss potential collaboration opportunities, feel free to reach out to me via email at Archer.Andrew.J@outlook.com.
 
-Connect with Me
+## Connect with Me
 LinkedIn: www.linkedin.com/in/andrew-archer-a25740265
 Personal Website: www.ArcherWebsites.com
 
