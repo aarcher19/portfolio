@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository serves as a central hub to showcase my 
 ## React Projects
 
 [React To-Do App](https://github.com/aarcher19/React-To-Do-App)
-This To-Do app is my first project built using React. When completed it will allow you to add, manage, delete and complete tasks in a user-friendly interface.
+This To-Do app is my first project built using React. You can add, manage, delete and complete tasks in a user-friendly interface.
 
 ## JS Projects
 
