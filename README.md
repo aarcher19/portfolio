@@ -1,7 +1,12 @@
 # My portfolio
 Welcome to my portfolio! This repository serves as a central hub to showcase my various coding projects and accomplishments. Below, you'll find a list of my projects, each with a brief description and a link to its dedicated repository.
 
-## Projects
+## React Projects
+
+[React To-Do App](https://github.com/aarcher19/React-To-Do-App)
+This To-Do app is my first project built using React. When completed it will allow you to add, manage, delete and complete tasks in a user-friendly interface.
+
+## JS Projects
 
 [Phone Number Validator](https://github.com/aarcher19/Phone-Number-Validator)
 This is a simple JavaScript application that validates phone numbers using regular expressions. It checks if the provided input is a valid US phone number and returns true or false accordingly.
@@ -25,9 +30,6 @@ This project is an Apple website clone that aims to replicate the appearance and
 This HTML and CSS code represents a Supplement Facts label for a product. The label provides information about the serving size, nutritional content, and ingredients of the supplement. The design uses simple HTML elements and CSS styles to create a professional-looking label.
 
 ## Current Builds
-
-[React To-Do App](https://github.com/aarcher19/React-To-Do-App)
-This To-Do app is my first project built using React. When completed it will allow you to add, manage, and complete tasks in a user-friendly interface.
 
 ## About Me
 
