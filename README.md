@@ -8,6 +8,9 @@ This To-Do app is my first project built using React. You can add, manage, delet
 
 ## JS Projects
 
+[Registration Form](https://github.com/aarcher19/Registration-Form)
+This is a simple registration form built using HTML, CSS, and JavaScript. Users can fill in their name, age, and email, and the form will display their information in a list next to the form.
+
 [Phone Number Validator](https://github.com/aarcher19/Phone-Number-Validator)
 This is a simple JavaScript application that validates phone numbers using regular expressions. It checks if the provided input is a valid US phone number and returns true or false accordingly.
 
