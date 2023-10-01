@@ -3,6 +3,9 @@ Welcome to my portfolio! This repository serves as a central hub to showcase my 
 
 ## React Projects
 
+[Crypto Coin Tracker](https://github.com/aarcher19/Crypto-Coin-Tracker)
+This app tracks 5 seperate crypto currencies in real time.
+
 [React To-Do App](https://github.com/aarcher19/React-To-Do-App)
 This To-Do app is my first project built using React. You can add, manage, delete and complete tasks in a user-friendly interface.
 
