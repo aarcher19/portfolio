@@ -3,6 +3,8 @@ Welcome to my portfolio! This repository serves as a central hub to showcase my 
 
 ## React Projects
 
+[Material Aquasition & Inventory Management Application](https://github.com/aarcher19/)
+
 [Crypto Coin Tracker](https://github.com/aarcher19/Crypto-Coin-Tracker)
 This app tracks 5 seperate crypto currencies in real time.
 
