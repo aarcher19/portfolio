@@ -1,6 +1,10 @@
 # My portfolio
 Welcome to my portfolio! This repository serves as a central hub to showcase my various coding projects and accomplishments. Below, you'll find a list of my projects, each with a brief description and a link to its dedicated repository.
 
+## C Projects
+
+[CLI Task Manager](https://github.com/aarcher19/CLI-Task-Manager)
+
 ## React Projects
 
 [Material Aquasition & Inventory Management Application](https://github.com/aarcher19/Material-Acquisitions-Inventory-Management-Application-)
